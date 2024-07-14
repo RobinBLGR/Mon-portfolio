@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Mon Vieux Grimoire",
+      "src": "images/vieuxgrimoire.png",
+      "description": "Description détaillée du projet 1",
+      "difficultes": "Gestion des blocs CSS et HTML",
+      "competences": "Maîtrise du langage HTML et CSS, indispensables en matière de développement web",
+      "link": "https://example.com/projet1"
+    },
+    {
+      "title": "Bookiiii",
+      "src": "images/booki.png",
+      "description": "Description détaillée du projet 2",
+      "difficultes": "Gestion des blocs CSS et HTML",
+      "competences": "Maîtrise du langage HTML et CSS, indispensables en matière de développement web",
+      "link": "https://github.com/RobinBLGR/OpenClasseroomsProject"
+    },
+    {
+      "title": "Plantes et potagers",
+      "src": "images/vieuxgrimoire.png",
+      "description": "Description détaillée du projet 3",
+      "difficultes": "Gestion des blocs CSS et HTML",
+      "competences": "Maîtrise du langage HTML et CSS, indispensables en matière de développement web",
+      "link": "https://example.com/projet3"
+    }
+  ]
